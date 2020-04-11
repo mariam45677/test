@@ -1,4 +1,5 @@
-package cat.cattutorial;
+package com.examble.cat2;
+
 
 import android.app.Activity;
 import android.content.Intent;

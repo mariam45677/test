@@ -1,4 +1,4 @@
-package cat.cattutorial;
+package cat2;
 
 import java.io.Serializable;
 
